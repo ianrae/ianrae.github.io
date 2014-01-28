@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="mettle" module="mettle_2.10" revision="0.2-SNAPSHOT" status="integration" publication="20140123200101">
+	<info organisation="mettle" module="mettle_2.10" revision="0.2-SNAPSHOT" status="integration" publication="20140128060807">
 		<description>
 		mettle
 		</description>
