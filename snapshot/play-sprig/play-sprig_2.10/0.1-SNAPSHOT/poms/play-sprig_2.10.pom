@@ -52,7 +52,7 @@
             <artifactId>play-java_2.10</artifactId>
             <version>2.2.1</version>
         </dependency>
-    </dependencies> 
+    </dependencies>
     <repositories>
         <repository>
             <id>TypesafeReleasesRepository</id>
